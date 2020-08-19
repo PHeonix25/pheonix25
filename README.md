@@ -8,13 +8,13 @@ I'm an experienced technical leader, adept public speaker, effective communicato
 - Azure ⛅
 - React/TypeScript 💻
 - Managing technical managers 👨‍🚀
-- How to creating engaging content for [my Cities:Skylines YouTube channel](https://www.youtube.com/channel/UC9KH8jGir6xzxH2-p9G9wWw)
 
 ---
 ### 🔭 I’m currently working on
 - Completing [my Azure qualifications](https://docs.microsoft.com/en-us/users/phermens/)
 - Updating [my Management Handbook](https://management-handbook.hermens.com.au)
 - Overhauling [my personal site](https://github.com/PHeonix25/PHeonix25.github.io) (_again_)
+- Creating [my Cities:Skylines YouTube channel](https://www.youtube.com/channel/UC9KH8jGir6xzxH2-p9G9wWw)
 
 ---
 ### 📢 I'm also available here
