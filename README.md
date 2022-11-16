@@ -1,20 +1,19 @@
 ### Hi there, I'm Pat 👋
 
-I'm an experienced technical leader, adept public speaker, effective communicator, and skilled .NET developer.
+I'm an experienced technical leader, adept public speaker, effective communicator, and skilled developer.
 
 ---
 ### 🌱 I’m currently learning more about
-- Python 🐍
-- Azure ⛅
-- React/TypeScript 💻
-- Managing technical managers 👨‍🚀
+- Python 🐍 + React/TypeScript 💻
+- Cloud-Native & Serverless tech ⛅
+- Growing & supporting technical leaders 👨‍🚀
 
 ---
 ### 🔭 I’m currently working on
-- Completing [my Azure qualifications](https://docs.microsoft.com/en-us/users/phermens/)
+- Renewing [my Azure qualifications](https://docs.microsoft.com/en-us/users/phermens/)
+- Upgrading [my AWS qualifications](https://www.credly.com/users/pat-hermens.5730ba87/badges)
 - Updating [my Management Handbook](https://management-handbook.hermens.com.au)
 - Overhauling [my personal site](https://github.com/PHeonix25/PHeonix25.github.io) (_again_)
-- Creating [my Cities:Skylines YouTube channel](https://www.youtube.com/channel/UC9KH8jGir6xzxH2-p9G9wWw)
 
 ---
 ### 📢 I'm also available here
