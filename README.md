@@ -11,7 +11,7 @@ I'm an experienced technical leader, adept public speaker, effective communicato
 
 ---
 ### 🔭 I’m currently working on
-- Updating [a HomeAssistant integration](https://github.com/PHeonix25/unifi_alerts/)
+- Developing [a HomeAssistant integration](https://github.com/PHeonix25/unifi_alerts/)
 - Renewing [my Azure qualifications](https://docs.microsoft.com/en-us/users/phermens/)
 - Upgrading [my AWS qualifications](https://www.credly.com/users/pat-hermens.5730ba87/badges)
 - Updating [my Management Handbook](https://management-handbook.hermens.com.au)
